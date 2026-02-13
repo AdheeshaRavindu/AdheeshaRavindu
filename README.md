@@ -1,9 +1,9 @@
-<!-- Animated Header -->
+<!-- Header -->
 <h1 align="center">Hey 👋 I'm Ravindu Adheesha</h1>
-<h3 align="center">💻 Cybersecurity Enthusiast | 🎮 Unity Developer | ⚙️ C# & Python Programmer</h3>
+<h3 align="center">Cybersecurity Learner | Unity Developer | C# & Python Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CTF+Player+%F0%9F%94%90;Network+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Unity+Game+Developer+%F0%9F%8E%AE;Always+Building+Something+Cool+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Network+Security+Explorer;Unity+Game+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 ## 🚀 About Me  
 
 - 🎓 IT Student passionate about **Cyber Security & Networking**
-- 🔐 Active in CTF challenges & ethical hacking labs  
-- 🧠 Love building tools with **Python & C#**
-- 🎮 Creating games using **Unity**
-- 🐧 Linux user & terminal enjoyer  
+- 🔐 Currently learning penetration testing & system security
+- 🎮 Building games with **Unity**
+- 🧠 Developing tools using **Python & C#**
+- 🐧 Linux user
 
 ---
 
@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdheeshaRavindu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdheeshaRavindu&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -42,7 +41,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdheeshaRavindu&theme=onestar&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdheeshaRavindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
@@ -64,5 +63,5 @@
 ---
 
 <p align="center">
-  ⚡ “Build. Break. Learn. Repeat.” ⚡
+  ⚡ Build • Learn • Improve • Repeat ⚡
 </p>
