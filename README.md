@@ -1,47 +1,68 @@
+<!-- Animated Header -->
 <h1 align="center">Hey 👋 I'm Ravindu Adheesha</h1>
+<h3 align="center">💻 Cybersecurity Enthusiast | 🎮 Unity Developer | ⚙️ C# & Python Programmer</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CTF+Player+%F0%9F%94%90;Network+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Unity+Game+Developer+%F0%9F%8E%AE;Always+Building+Something+Cool+%F0%9F%9A%80" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-</div>
+---
 
-###
+## 🚀 About Me  
 
-<div align="center">
+- 🎓 IT Student passionate about **Cyber Security & Networking**
+- 🔐 Active in CTF challenges & ethical hacking labs  
+- 🧠 Love building tools with **Python & C#**
+- 🎮 Creating games using **Unity**
+- 🐧 Linux user & terminal enjoyer  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,java,linux,unity,blender,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdheeshaRavindu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdheeshaRavindu&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdheeshaRavindu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdheeshaRavindu&theme=onestar&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/adheesharavindu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@zacscorpio4072" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="adheesharavindu001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:adheesharavindu001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdheeshaRavindu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AdheeshaRavindu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdheeshaRavindu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdheeshaRavindu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdheeshaRavindu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<p align="center">
+  ⚡ “Build. Break. Learn. Repeat.” ⚡
+</p>
