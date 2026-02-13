@@ -1,63 +1,22 @@
-<!-- Banner -->
-<h1 align="center">Ravindu Adheesha</h1>
+<!-- Animated Gradient Header -->
 <p align="center">
-  <b>Cybersecurity Student • Software Developer • Unity Creator</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ravindu%20Adheesha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
----
-
-## 👨‍💻 Profile
-
-I’m an IT student focused on cybersecurity, networking, and software development.  
-I enjoy building practical tools, experimenting with systems, and creating interactive experiences with Unity.
-
-- 🔐 Learning system & network security
-- 💻 Developing with C# and Python
-- 🎮 Building projects using Unity
-- 🐧 Working comfortably in Linux environments
-
----
-
-## 🧰 Technologies
-
-<p align="left">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![CSharp](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
-![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-
-</p>
-
----
-
-## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdheeshaRavindu&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Unity+Developer;C%23+%7C+Python+Programmer;Linux+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🧠 About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adheesharavindu/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.youtube.com/@zacscorpio4072">
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube" />
-</a>
-<a href="mailto:adheesharavindu001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+```bash
+> whoami
+Ravindu Adheesha
 
----
+> focus
+Cyber Security | Networking | Software Development
 
-<p align="center">
-  <i>Focused on continuous improvement.</i>
-</p>
+> tools
+C# • Python • Unity • Linux • Java • Blender
