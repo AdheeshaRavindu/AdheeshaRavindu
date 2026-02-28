@@ -14,64 +14,24 @@
 
 ---
 
-## ⚡ SYS_INFO
+## ⚡ ABOUT
 
 ```bash
-┌──────────────────────────────────────────────┐
-│ $ whoami                                     │
-│ RAVINDU_ADHEESHA [ACTIVE]                   │
-├──────────────────────────────────────────────┤
-│ ROLE      ➜ Security Researcher              │
-│ LEVEL     ➜ 🔓🔓🔓 Advanced User              │
-│ STATUS    ➜ [███████░░░] Learning Mode       │
-│ MOOD      ➜ Breaking Systems & Building Art  │
-└──────────────────────────────────────────────┘
+$ whoami
+RAVINDU_ADHEESHA
 
-┌──────────────────────────────────────────────┐
-│ SPECIALIZATION MATRIX                        │
-├──────────────────────────────────────────────┤
-│ • Cybersecurity & Ethical Hacking            │
-│ • Network Penetration Testing                │
-│ • Reverse Engineering & Binary Analysis      │
-│ • Game Development (Unity Engine)            │
-│ • Linux System Administration                │
-│ • Malware Analysis & Threat Intel            │
-└──────────────────────────────────────────────┘
+$ cat interests.txt
+Cybersecurity | Penetration Testing | Game Development | Linux
 
-┌──────────────────────────────────────────────┐
-│ ARSENAL - TOOLS OF THE TRADE                 │
-├──────────────────────────────────────────────┤
-│ Languages   ➜ C# | Python | Java | Bash     │
-│ Frameworks  ➜ Unity | Blender | Docker      │
-│ Tools       ➜ Wireshark | Ghidra | Burp     │
-│ OS          ➜ Linux | Windows | Kali        │
-│ Mindset     ➜ Curious | Ethical | Relentless│
-└──────────────────────────────────────────────┘
+$ cat tools.txt
+Languages  ➜ C# | Python | Java | Bash
+Frameworks ➜ Unity | Blender | Docker
+Tools      ➜ Wireshark | Ghidra | Linux
 ```
 
 ---
 
-## 💻 MISSION STATUS
-
-```
-[████████████████░░░░░░░░░░░░] 60% Cybersecurity Mastery
-[██████████░░░░░░░░░░░░░░░░░░] 35% Low-Level Systems Guru
-[██████████████████████░░░░░░] 70% Security Tools Developer
-[███████████████████░░░░░░░░░░] 65% Game Engine Expert
-```
-
----
-
-## 🔓 SKILL BREAKDOWN
-
-**« OFFENSE MODE »**
-
-<img src="https://img.shields.io/badge/-Penetration%20Testing-ff0000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Reverse%20Engineering-00ff00?style=for-the-badge&logo=gnubash&logoColor=black" />
-<img src="https://img.shields.io/badge/-Network%20Analysis-0080ff?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Threat%20Modeling-cc00cc?style=for-the-badge&logo=security&logoColor=white" />
-
-**« DEVELOPMENT STACK »**
+## 🔓 SKILLS
 
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff" />
@@ -82,59 +42,22 @@
 
 ---
 
-## 🛠️ CURRENT OPERATIONS
-
-```
-root@adheesha:/projects# ls -la
-[ ⚙️  ACTIVE ] Zero-Day Research Framework
-[ ⚙️  ACTIVE ] Custom Security Toolkit Suite  
-[ ⚙️  ACTIVE ] Malware Analysis Dashboard
-[ ⚙️  ACTIVE ] Game Engine Exploitation Lab
-[ ⚙️  ACTIVE ] Binary Analysis Automation
-```
-
----
-
-## 🌐 CONNECT TO THE NETWORK
+## 🌐 CONNECT
 
 ```bash
-root@adheesha:~# telnet [INCOMING_CONNECTION]
-
 » GITHUB    ➜ github.com/AdheeshaRavindu
-» EMAIL     ➜ adheesha[at]domain.com
-» TWITTER   ➜ @YourHandle
-» DISCORD   ➜ YourName#0000
-```
-
----
-
-## 🎓 PHILOSOPHY
-
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  "Hackers are just engineers with curiosity jacked"   ║
-║                                                        ║
-║  • Ethical = Powerful                                  ║
-║  • Knowledge = Freedom                                 ║
-║  • Code = Art                                           ║
-║  • Security = Responsibility                           ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+» EMAIL     ➜ z68256772@gmail.com
+» TWITTER   ➜ @NalinCosta1
 ```
 
 ---
 
 ```bash
-root@adheesha:~# whoami
-ravindu_adheesha
-
 root@adheesha:~# echo "Stay curious. Stay ethical. Stay dangerous. 🔒"
 Stay curious. Stay ethical. Stay dangerous. 🔒
 
 root@adheesha:~# logout
 [CONNECTION_TERMINATED]
-[SESSION_LOG_ENCRYPTED]
 ```
 
 <p align="center">
