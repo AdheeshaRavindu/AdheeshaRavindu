@@ -24,6 +24,7 @@ Initializing secure shell...
 
 I am a cybersecurity-focused developer and security engineering enthusiast who likes turning complex system problems into practical, secure solutions.
 
+- Student: Bachelor of Information Technology (BIT) at Horizon Campus, Sri Lanka
 - Current role: System Administrator at Community of Cyber Security in Horizon (C2SH)
 - Community work: Built and manage the official website https://c2sh.lk
 - Professional focus: Cybersecurity, Security Engineering, Project Management
@@ -38,7 +39,7 @@ I am a cybersecurity-focused developer and security engineering enthusiast who l
 - Blockchain and Web3 security curiosity and experimentation
 - Open-source collaboration for practical security tooling
 
-## 4) Tech Stack (with Icons)
+## 4) Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffd43b)
