@@ -73,8 +73,8 @@ Think like a builder. Validate like an attacker. Deploy like an engineer.
 ## 7) GitHub Stats
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdheeshaRavindu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdheeshaRavindu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdheeshaRavindu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdheeshaRavindu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
