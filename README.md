@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVmM2M3eWd0N2pkZjBzOGIwYzlsN2hxMmE5anZ3aGs5MXJtcWJkNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3knKct3fGqxhK/giphy.gif" width="30" alt="terminal"/> Ravindu Adheesha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=1000&lines=Security-First+Engineer;Cybersecurity+%7C+Security+Engineering+%7C+Project+Management;Building+Real-World+Security+Solutions;System+Administrator+%40+C2SH)](https://github.com/AdheeshaRavindu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=1000&lines=Security-First+Student;Cybersecurity+%7C+Secure+Systems+%7C+Project+Management;Building+Real-World+Security+Solutions;System+Administrator+%40+C2SH)](https://github.com/AdheeshaRavindu)
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=AdheeshaRavindu&label=Profile+Views&color=00ff9c&style=flat" alt="visitor counter" />
@@ -22,12 +22,12 @@ Initializing secure shell...
 
 ## 2) About Me
 
-I am a cybersecurity-focused developer and security engineering enthusiast who likes turning complex system problems into practical, secure solutions.
+I am a cybersecurity-focused university student who likes turning complex system problems into practical, secure solutions.
 
 - Student: Bachelor of Information Technology (BIT) at Horizon Campus, Sri Lanka
 - Current role: System Administrator at Community of Cyber Security in Horizon (C2SH)
 - Community work: Built and manage the official website https://c2sh.lk
-- Professional focus: Cybersecurity, Security Engineering, Project Management
+- Professional focus: Cybersecurity, Secure Systems, Project Management
 - Approach: Learn deeply, build responsibly, secure by design
 
 ## 3) Cybersecurity Focus
@@ -62,7 +62,7 @@ I am a cybersecurity-focused developer and security engineering enthusiast who l
 ## 6) Security Mindset
 
 ```text
-Think like a builder. Validate like an attacker. Deploy like an engineer.
+Think like a builder. Validate like an attacker. Deploy with discipline.
 ```
 
 - Security-first by default, not as an afterthought
