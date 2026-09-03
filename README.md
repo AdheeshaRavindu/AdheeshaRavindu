@@ -4,8 +4,6 @@
 
 I build practical systems across cybersecurity, AI agents, and full-stack products. System Administrator at [C2SH](https://c2sh.lk).
 
-**Open to internships** — cybersecurity, software engineering, and AI.
-
 ## Selected Work
 
 | Project | What it does |
@@ -27,7 +25,7 @@ I build practical systems across cybersecurity, AI agents, and full-stack produc
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdheeshaRavindu&bg_color=00000000&color=8B949E&line=8B949E&point=c9d1d9&area=true&hide_border=true" alt="contribution graph" />
+	<img src="https://ghchart.rshah.org/8B949E/AdheeshaRavindu" alt="contribution graph" />
 </p>
 
 ## Connect
